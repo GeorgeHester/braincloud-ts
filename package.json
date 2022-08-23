@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "braincloud-ts",
+  "description": "Braincloud client for TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "NightFoxDev",
+    "url": "https://www.nightfoxdev.com"
+  },
+  "contributors": [
+    {
+      "name": "George Hester",
+      "url": "https://github.com/GeorgeHester"
+    }
+  ],
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeHester/braincloud-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgeHester/braincloud-ts/issues"
+  },
+  "homepage": "https://github.com/GeorgeHester/braincloud-ts#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
